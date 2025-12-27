@@ -113,7 +113,7 @@
 
     footer a {
         color: #4CAF50;
-        text-decoration: none;
+        text-decoration: none; 
         font-weight: bold;
     }
 
